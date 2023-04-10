@@ -1,5 +1,7 @@
 # bangohan
-kyou no bangohan ha nanda
+kyou no bangohan roulette
 
 1.repo sakusei
 2.push
+
+comp
