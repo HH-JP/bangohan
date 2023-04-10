@@ -1,3 +1,5 @@
 # bangohan
 kyou no bangohan ha nanda
-php
+
+1.repo sakusei
+2.push
