@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Git/GitHub bangohan</h1>
+    <h1>kyou no bangohan ha</h1>
+	<?php
+		$bangohan = array("Tonkatsu", "Sushi", "Tempura", "Sukiyaki");
+		echo $bangohan[array_rand($bangohan, 1)];
+	?>
 </body>
 </html>
