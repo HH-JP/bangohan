@@ -1,7 +1,5 @@
 # bangohan
 kyou no bangohan roulette
 
-1.repo sakusei
-2.push
-
-comp
+bangohan list --
+"Tonkatsu", "Sushi", "Tempura", "Sukiyaki"
